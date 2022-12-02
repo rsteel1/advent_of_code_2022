@@ -1,6 +1,6 @@
 
 def get_input_list():
-    with open("1/input.txt", "r") as infile:
+    with open("day1/input.txt", "r") as infile:
         return infile.read().splitlines()
 
 def calculate_answer():        
